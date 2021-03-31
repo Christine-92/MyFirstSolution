@@ -1,6 +1,0 @@
-D:\C#\C# projects\Max_Value\bin\Debug\Max_Value.exe.config
-D:\C#\C# projects\Max_Value\bin\Debug\Max_Value.exe
-D:\C#\C# projects\Max_Value\bin\Debug\Max_Value.pdb
-D:\C#\C# projects\Max_Value\obj\Debug\Max_Value.csproj.CoreCompileInputs.cache
-D:\C#\C# projects\Max_Value\obj\Debug\Max_Value.exe
-D:\C#\C# projects\Max_Value\obj\Debug\Max_Value.pdb
