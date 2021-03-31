@@ -8,7 +8,5 @@ namespace Methods_1
 {
     class Program
     {
-      
-        }
     }
 }
