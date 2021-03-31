@@ -8,7 +8,7 @@ namespace Method1
         {
 
 
-            /* for (int j = 0; j <= 4; j++)
+            /*for (int j = 0; j <= 4; j++)
               {
                   for (int i = 0; i < j; i++)
                   {
