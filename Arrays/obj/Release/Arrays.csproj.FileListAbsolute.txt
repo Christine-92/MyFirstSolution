@@ -1,0 +1,6 @@
+D:\C#\C# projects\Arrays\bin\Release\Arrays.exe.config
+D:\C#\C# projects\Arrays\bin\Release\Arrays.exe
+D:\C#\C# projects\Arrays\bin\Release\Arrays.pdb
+D:\C#\C# projects\Arrays\obj\Release\Arrays.csproj.CoreCompileInputs.cache
+D:\C#\C# projects\Arrays\obj\Release\Arrays.exe
+D:\C#\C# projects\Arrays\obj\Release\Arrays.pdb

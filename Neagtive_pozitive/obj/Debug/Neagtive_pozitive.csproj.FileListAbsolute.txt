@@ -1,0 +1,6 @@
+D:\C#\C# projects\Neagtive_pozitive\bin\Debug\Neagtive_pozitive.exe.config
+D:\C#\C# projects\Neagtive_pozitive\bin\Debug\Neagtive_pozitive.exe
+D:\C#\C# projects\Neagtive_pozitive\bin\Debug\Neagtive_pozitive.pdb
+D:\C#\C# projects\Neagtive_pozitive\obj\Debug\Neagtive_pozitive.csproj.CoreCompileInputs.cache
+D:\C#\C# projects\Neagtive_pozitive\obj\Debug\Neagtive_pozitive.exe
+D:\C#\C# projects\Neagtive_pozitive\obj\Debug\Neagtive_pozitive.pdb

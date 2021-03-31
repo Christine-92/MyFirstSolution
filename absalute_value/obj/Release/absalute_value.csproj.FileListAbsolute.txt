@@ -1,0 +1,6 @@
+D:\C#\C# projects\absalute_value\bin\Release\absalute_value.exe.config
+D:\C#\C# projects\absalute_value\bin\Release\absalute_value.exe
+D:\C#\C# projects\absalute_value\bin\Release\absalute_value.pdb
+D:\C#\C# projects\absalute_value\obj\Release\absalute_value.csproj.CoreCompileInputs.cache
+D:\C#\C# projects\absalute_value\obj\Release\absalute_value.exe
+D:\C#\C# projects\absalute_value\obj\Release\absalute_value.pdb

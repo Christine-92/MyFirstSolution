@@ -1,0 +1,6 @@
+D:\C#\C# projects\ConsoleColor\bin\Debug\ConsoleColor.exe.config
+D:\C#\C# projects\ConsoleColor\bin\Debug\ConsoleColor.exe
+D:\C#\C# projects\ConsoleColor\bin\Debug\ConsoleColor.pdb
+D:\C#\C# projects\ConsoleColor\obj\Debug\ConsoleColor.csproj.CoreCompileInputs.cache
+D:\C#\C# projects\ConsoleColor\obj\Debug\ConsoleColor.exe
+D:\C#\C# projects\ConsoleColor\obj\Debug\ConsoleColor.pdb

@@ -1,0 +1,6 @@
+D:\C#\C# projects\Multiply_Arrays elements\bin\Release\Multiply_Arrays elements.exe.config
+D:\C#\C# projects\Multiply_Arrays elements\bin\Release\Multiply_Arrays elements.exe
+D:\C#\C# projects\Multiply_Arrays elements\bin\Release\Multiply_Arrays elements.pdb
+D:\C#\C# projects\Multiply_Arrays elements\obj\Release\Multiply_Arrays elements.csproj.CoreCompileInputs.cache
+D:\C#\C# projects\Multiply_Arrays elements\obj\Release\Multiply_Arrays elements.exe
+D:\C#\C# projects\Multiply_Arrays elements\obj\Release\Multiply_Arrays elements.pdb

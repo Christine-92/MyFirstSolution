@@ -1,0 +1,6 @@
+D:\C#\C# projects\Prime_function\bin\Release\Prime_function.exe.config
+D:\C#\C# projects\Prime_function\bin\Release\Prime_function.exe
+D:\C#\C# projects\Prime_function\bin\Release\Prime_function.pdb
+D:\C#\C# projects\Prime_function\obj\Release\Prime_function.csproj.CoreCompileInputs.cache
+D:\C#\C# projects\Prime_function\obj\Release\Prime_function.exe
+D:\C#\C# projects\Prime_function\obj\Release\Prime_function.pdb

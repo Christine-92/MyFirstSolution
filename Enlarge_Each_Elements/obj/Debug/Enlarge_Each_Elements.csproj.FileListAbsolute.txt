@@ -1,0 +1,6 @@
+D:\C#\C# projects\Enlarge_Each_Elements\bin\Debug\Enlarge_Each_Elements.exe.config
+D:\C#\C# projects\Enlarge_Each_Elements\bin\Debug\Enlarge_Each_Elements.exe
+D:\C#\C# projects\Enlarge_Each_Elements\bin\Debug\Enlarge_Each_Elements.pdb
+D:\C#\C# projects\Enlarge_Each_Elements\obj\Debug\Enlarge_Each_Elements.csproj.CoreCompileInputs.cache
+D:\C#\C# projects\Enlarge_Each_Elements\obj\Debug\Enlarge_Each_Elements.exe
+D:\C#\C# projects\Enlarge_Each_Elements\obj\Debug\Enlarge_Each_Elements.pdb

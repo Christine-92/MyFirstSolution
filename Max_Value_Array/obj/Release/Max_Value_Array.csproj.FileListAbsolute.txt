@@ -1,0 +1,6 @@
+D:\C#\C# projects\Max_Value_Array\bin\Release\Max_Value_Array.exe.config
+D:\C#\C# projects\Max_Value_Array\bin\Release\Max_Value_Array.exe
+D:\C#\C# projects\Max_Value_Array\bin\Release\Max_Value_Array.pdb
+D:\C#\C# projects\Max_Value_Array\obj\Release\Max_Value_Array.csproj.CoreCompileInputs.cache
+D:\C#\C# projects\Max_Value_Array\obj\Release\Max_Value_Array.exe
+D:\C#\C# projects\Max_Value_Array\obj\Release\Max_Value_Array.pdb

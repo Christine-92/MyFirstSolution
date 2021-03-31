@@ -1,0 +1,12 @@
+D:\C#\C# projects\MethodeRefAndOut\bin\Release\netcoreapp3.1\MethodeRefAndOut.exe
+D:\C#\C# projects\MethodeRefAndOut\bin\Release\netcoreapp3.1\MethodeRefAndOut.deps.json
+D:\C#\C# projects\MethodeRefAndOut\bin\Release\netcoreapp3.1\MethodeRefAndOut.runtimeconfig.json
+D:\C#\C# projects\MethodeRefAndOut\bin\Release\netcoreapp3.1\MethodeRefAndOut.runtimeconfig.dev.json
+D:\C#\C# projects\MethodeRefAndOut\bin\Release\netcoreapp3.1\MethodeRefAndOut.dll
+D:\C#\C# projects\MethodeRefAndOut\bin\Release\netcoreapp3.1\MethodeRefAndOut.pdb
+D:\C#\C# projects\MethodeRefAndOut\obj\Release\netcoreapp3.1\MethodeRefAndOut.AssemblyInfoInputs.cache
+D:\C#\C# projects\MethodeRefAndOut\obj\Release\netcoreapp3.1\MethodeRefAndOut.AssemblyInfo.cs
+D:\C#\C# projects\MethodeRefAndOut\obj\Release\netcoreapp3.1\MethodeRefAndOut.csproj.CoreCompileInputs.cache
+D:\C#\C# projects\MethodeRefAndOut\obj\Release\netcoreapp3.1\MethodeRefAndOut.dll
+D:\C#\C# projects\MethodeRefAndOut\obj\Release\netcoreapp3.1\MethodeRefAndOut.pdb
+D:\C#\C# projects\MethodeRefAndOut\obj\Release\netcoreapp3.1\MethodeRefAndOut.genruntimeconfig.cache

@@ -1,0 +1,6 @@
+D:\C#\C# projects\InRange\bin\Debug\InRange.exe.config
+D:\C#\C# projects\InRange\bin\Debug\InRange.exe
+D:\C#\C# projects\InRange\bin\Debug\InRange.pdb
+D:\C#\C# projects\InRange\obj\Debug\InRange.csproj.CoreCompileInputs.cache
+D:\C#\C# projects\InRange\obj\Debug\InRange.exe
+D:\C#\C# projects\InRange\obj\Debug\InRange.pdb

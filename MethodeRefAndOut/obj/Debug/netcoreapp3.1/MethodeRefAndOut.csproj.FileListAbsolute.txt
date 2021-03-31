@@ -1,0 +1,8 @@
+D:\C#\C# projects\MethodeRefAndOut\bin\Debug\netcoreapp3.1\MethodeRefAndOut.exe
+D:\C#\C# projects\MethodeRefAndOut\bin\Debug\netcoreapp3.1\MethodeRefAndOut.dll
+D:\C#\C# projects\MethodeRefAndOut\obj\Debug\netcoreapp3.1\MethodeRefAndOut.csprojAssemblyReference.cache
+D:\C#\C# projects\MethodeRefAndOut\obj\Debug\netcoreapp3.1\MethodeRefAndOut.AssemblyInfoInputs.cache
+D:\C#\C# projects\MethodeRefAndOut\obj\Debug\netcoreapp3.1\MethodeRefAndOut.AssemblyInfo.cs
+D:\C#\C# projects\MethodeRefAndOut\obj\Debug\netcoreapp3.1\MethodeRefAndOut.csproj.CoreCompileInputs.cache
+D:\C#\C# projects\MethodeRefAndOut\obj\Debug\netcoreapp3.1\MethodeRefAndOut.dll
+D:\C#\C# projects\MethodeRefAndOut\obj\Debug\netcoreapp3.1\MethodeRefAndOut.pdb

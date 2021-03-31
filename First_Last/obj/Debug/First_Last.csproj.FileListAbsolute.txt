@@ -1,0 +1,6 @@
+D:\C#\C# projects\First_Last\bin\Debug\First_Last.exe.config
+D:\C#\C# projects\First_Last\bin\Debug\First_Last.exe
+D:\C#\C# projects\First_Last\bin\Debug\First_Last.pdb
+D:\C#\C# projects\First_Last\obj\Debug\First_Last.csproj.CoreCompileInputs.cache
+D:\C#\C# projects\First_Last\obj\Debug\First_Last.exe
+D:\C#\C# projects\First_Last\obj\Debug\First_Last.pdb

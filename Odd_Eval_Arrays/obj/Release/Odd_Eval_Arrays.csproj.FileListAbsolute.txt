@@ -1,0 +1,6 @@
+D:\C#\C# projects\Odd_Eval_Arrays\bin\Release\Odd_Eval_Arrays.exe.config
+D:\C#\C# projects\Odd_Eval_Arrays\bin\Release\Odd_Eval_Arrays.exe
+D:\C#\C# projects\Odd_Eval_Arrays\bin\Release\Odd_Eval_Arrays.pdb
+D:\C#\C# projects\Odd_Eval_Arrays\obj\Release\Odd_Eval_Arrays.csproj.CoreCompileInputs.cache
+D:\C#\C# projects\Odd_Eval_Arrays\obj\Release\Odd_Eval_Arrays.exe
+D:\C#\C# projects\Odd_Eval_Arrays\obj\Release\Odd_Eval_Arrays.pdb

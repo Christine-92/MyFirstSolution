@@ -1,0 +1,6 @@
+D:\C#\C# projects\firstchar _add_from_2sides\bin\Debug\firstchar _add_from_2sides.exe.config
+D:\C#\C# projects\firstchar _add_from_2sides\bin\Debug\firstchar _add_from_2sides.exe
+D:\C#\C# projects\firstchar _add_from_2sides\bin\Debug\firstchar _add_from_2sides.pdb
+D:\C#\C# projects\firstchar _add_from_2sides\obj\Debug\firstchar _add_from_2sides.csproj.CoreCompileInputs.cache
+D:\C#\C# projects\firstchar _add_from_2sides\obj\Debug\firstchar _add_from_2sides.exe
+D:\C#\C# projects\firstchar _add_from_2sides\obj\Debug\firstchar _add_from_2sides.pdb

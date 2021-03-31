@@ -1,0 +1,6 @@
+D:\C#\C# projects\Arrays\bin\Debug\Arrays.exe.config
+D:\C#\C# projects\Arrays\bin\Debug\Arrays.exe
+D:\C#\C# projects\Arrays\bin\Debug\Arrays.pdb
+D:\C#\C# projects\Arrays\obj\Debug\Arrays.csproj.CoreCompileInputs.cache
+D:\C#\C# projects\Arrays\obj\Debug\Arrays.exe
+D:\C#\C# projects\Arrays\obj\Debug\Arrays.pdb

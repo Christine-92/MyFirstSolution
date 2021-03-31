@@ -1,0 +1,6 @@
+D:\C#\C# projects\My_First_Array\bin\Release\My_First_Array.exe.config
+D:\C#\C# projects\My_First_Array\bin\Release\My_First_Array.exe
+D:\C#\C# projects\My_First_Array\bin\Release\My_First_Array.pdb
+D:\C#\C# projects\My_First_Array\obj\Release\My_First_Array.csproj.CoreCompileInputs.cache
+D:\C#\C# projects\My_First_Array\obj\Release\My_First_Array.exe
+D:\C#\C# projects\My_First_Array\obj\Release\My_First_Array.pdb

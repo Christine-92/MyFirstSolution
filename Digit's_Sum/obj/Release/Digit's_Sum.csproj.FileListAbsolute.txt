@@ -1,0 +1,6 @@
+D:\C#\C# projects\Digit's_Sum\bin\Release\Digit's_Sum.exe.config
+D:\C#\C# projects\Digit's_Sum\bin\Release\Digit's_Sum.exe
+D:\C#\C# projects\Digit's_Sum\bin\Release\Digit's_Sum.pdb
+D:\C#\C# projects\Digit's_Sum\obj\Release\Digit's_Sum.csproj.CoreCompileInputs.cache
+D:\C#\C# projects\Digit's_Sum\obj\Release\Digit's_Sum.exe
+D:\C#\C# projects\Digit's_Sum\obj\Release\Digit's_Sum.pdb

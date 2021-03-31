@@ -1,0 +1,7 @@
+D:\C#\C# projects\rectangles\bin\Debug\rectangles.exe.config
+D:\C#\C# projects\rectangles\bin\Debug\rectangles.exe
+D:\C#\C# projects\rectangles\bin\Debug\rectangles.pdb
+D:\C#\C# projects\rectangles\obj\Debug\rectangles.csprojAssemblyReference.cache
+D:\C#\C# projects\rectangles\obj\Debug\rectangles.csproj.CoreCompileInputs.cache
+D:\C#\C# projects\rectangles\obj\Debug\rectangles.exe
+D:\C#\C# projects\rectangles\obj\Debug\rectangles.pdb

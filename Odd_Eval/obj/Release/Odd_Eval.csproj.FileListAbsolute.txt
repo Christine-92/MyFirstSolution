@@ -1,0 +1,6 @@
+D:\C#\C# projects\Odd_Eval\bin\Release\Odd_Eval.exe.config
+D:\C#\C# projects\Odd_Eval\bin\Release\Odd_Eval.exe
+D:\C#\C# projects\Odd_Eval\bin\Release\Odd_Eval.pdb
+D:\C#\C# projects\Odd_Eval\obj\Release\Odd_Eval.csproj.CoreCompileInputs.cache
+D:\C#\C# projects\Odd_Eval\obj\Release\Odd_Eval.exe
+D:\C#\C# projects\Odd_Eval\obj\Release\Odd_Eval.pdb
